@@ -1,7 +1,7 @@
 # UserDefault-Slider
 Mini project which clears concept of using User defaults (Persistent storage) + use of Sliders with UIColor
 
-# Written in Swift 4
+# Written in Swift 4 - Xcode 9
 
 Concepts to be cleared by this mini project :-
 
@@ -11,9 +11,9 @@ Concepts to be cleared by this mini project :-
 
 ## Screenshots for your reference
 
-![alt text](https://github.com/yogesh2209/UserDefault-Slider/blob/master/Screenshots/Image_1.png)
-![alt text](https://github.com/yogesh2209/UserDefault-Slider/blob/master/Screenshots/Image_2.png)
-![alt text](https://github.com/yogesh2209/UserDefault-Slider/blob/master/Screenshots/Image_3.png)
+<img src="https://github.com/yogesh2209/UserDefault-Slider/blob/master/Screenshots/Image_1.png" width="50%"/>
+<img src="https://github.com/yogesh2209/UserDefault-Slider/blob/master/Screenshots/Image_2.png" width="50%"/>
+<img src="https://github.com/yogesh2209/UserDefault-Slider/blob/master/Screenshots/Image_3.png" width="50%"/>
 
 
 # Just download and run it and check it yourself !
